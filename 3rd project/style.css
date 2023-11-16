@@ -1,0 +1,356 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  /* background-color: burlywood; */
+}
+.lefth img {
+  width: 200px;
+  padding: 6px;
+}
+.righth {
+  padding-top: 10px;
+  margin-right: 15px;
+}
+.righth a {
+  padding-right: 25px;
+  text-decoration: none;
+  font-weight: 800;
+  color: black;
+}
+.righth a button {
+  padding: 9px;
+  border: 1px solid black;
+  color: gray;
+  background-color: white;
+  border-radius: 5px;
+}
+.righth a i {
+  padding-left: 5px;
+}
+.first {
+  text-align: center;
+  padding-top: 20px;
+  background-color: rgb(248, 245, 250);
+  padding-bottom: 40px;
+}
+.first p {
+  padding-top: 15px;
+}
+.first button {
+  margin-top: 30px;
+  padding: 10px;
+  background-color: rgb(13, 202, 240);
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+.second {
+  display: flex;
+  justify-content: space-around;
+ 
+}
+.inner {
+  border:2px solid whitesmoke;
+  padding: 30px;
+}
+.inner i {
+  font-size: 40px;
+  padding-top: 20px;
+  color: blue;
+}
+.third
+{
+   text-align: center;
+   margin-top: 70px;
+}
+.third span
+{
+    color: darkmagenta;
+}
+.thirdbox
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+    /* background-color: mediumpurple; */
+    padding-bottom: 50px;
+    margin-bottom: 40px;
+}
+.allbg
+{
+  background-color: rgb(201, 186, 188);
+}
+.inner1 p
+{
+    margin-top: 25px;
+}
+.inner1 i
+{
+    color: rgb(151, 86, 151);
+    padding-right: 7px;
+    font-size: 20px;
+}
+.inner2 i
+{
+    color: darkmagenta;
+    padding-right: 7px;
+    font-size: 20px;
+}
+.inner2 p
+{
+    margin-top: 25px;
+}
+.forthbox
+{
+  display: flex;
+  justify-content: space-between;
+}
+.leftside
+{
+  text-align:left;
+  margin-top: 100px;
+  margin-left: 10px;
+}
+.rightside img
+{
+  width: 800px;
+  height: 500px;
+
+}
+.fifthbox
+{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.sixthbox
+{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.main
+{
+  display: flex;
+  justify-content: space-around;
+  background-color: aliceblue;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+.one
+{
+  text-align: center;
+}
+.one i
+{
+ font-size: 40px;
+ margin-top: 30px;
+ color: blue;
+ 
+}
+.link
+{
+  margin-top: 40px;
+}
+.link a
+{
+  text-decoration: none;
+  padding-top: 50px;
+}
+.footerlogo
+{
+  text-align: center;
+  margin-top: 100px;
+}
+img{
+  width: 200px;
+}
+.footer
+{
+  display: flex;
+  justify-content:center;
+  margin-top: 30px;
+
+}
+.end
+{
+  border-right: 2px solid gray;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.end h2
+{
+   text-align:left;
+   color: deepskyblue;
+}
+.end p
+{
+  text-align: left;
+  margin-top: 10px;
+}
+.end li
+{
+  /* list-style: none; */
+  margin-top: 10px;
+}
+.end a
+{
+  text-decoration: none;
+  margin-top: 6px;
+}
+.line
+{
+  text-align: center;
+  margin-top: 50px;
+  background-color: whitesmoke;
+  padding: 15px;
+}
+.line a{
+ text-decoration: none;
+ border-right: 2px solid gray;
+ margin-left: 20px;
+ padding-right: 20px;
+
+}
+.bgorangebox
+{
+  width: 100%;
+  height: 200px;
+  margin-top: 40px;
+  background-color: orchid;
+  text-align: center;
+}
+.bgorangebox input
+{
+  width: 300px;
+  padding: 10px;
+  margin-top: 15px;
+}
+.bgorangebox h2
+{
+  margin-top: 20px;
+padding-top: 30px;
+text-align: center;
+color: white;
+}
+.bgorangebox  button
+{
+  padding: 10px;
+  background-color: orchid;
+  border-radius: 5px;
+  color: white;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+
+.footerend
+{
+  text-align: center;
+  margin-top: 30px;
+}
+.footerend span
+{
+  color: dodgerblue;
+  margin-top: 10px;
+}
+.seventhbox
+{
+ background-color:whitesmoke;
+}
+.leftside1
+{
+  display:flex;
+  margin-top: 60px;
+  padding: 20px;
+  font-size: 20px;
+}
+.rightside1 video
+{
+  /* padding-top: 70px; */
+  width: 400px;
+}
+.leftsidemain
+{
+  display: flex;
+  padding-top: 10px;
+}
+.leftside2
+{
+  padding-left: 10px;
+  position: relative;
+  bottom: 100px;
+}
+.leftside2 h2 span i
+{
+  color: blue;
+  padding-right: 10px;
+}
+.eightbox
+{
+  display: flex;
+  margin-top: 20px;
+}
+.leftside3
+{
+  text-align:center;
+  margin-top: 140px;
+  margin-left: 20px;
+}
+.leftside3 h2{
+  text-align: center;
+}
+.heading2
+{
+  text-align: center;
+  margin-top: 100px;
+}
+.tablehead
+{
+  margin-left: 400px;
+}
+.tableheadinner
+{
+  display: flex;
+  justify-content:space-evenly;
+  padding: 20px;
+}
+
+.table
+{
+  display: flex;
+}
+.tableleft ul li
+{
+  width: 250px;
+  height: 25px;
+  margin: 20px;
+  list-style: none;
+
+}
+.tableleft ul span li
+{
+  background-color: rgb(187,206,228);
+  padding: 10px;
+}
+.tableright table tr td
+{
+  width: 250px;
+  text-align: center;
+  height: 25px;
+  background-color: rgb(250,225,227);
+}
+.tableright table
+{
+  margin-left: 120px;
+  border-spacing: 20px;
+}
+.tableright table tr th 
+{
+  background-color: rgb(223,242,227);
+}
